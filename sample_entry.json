@@ -1,0 +1,16 @@
+{
+    "course_code": "CS480",
+    "sec_id": 1,
+    "course_term": "Spring",
+    "course_year": 2023,
+    "lecture_num": "Lecture 2",
+    "lecture_name": "SVM",
+    "lecture_video_url": {
+        "vid1": "https://uwflow.com/course/ece457a",
+        "vid2": "https://uwflow.com/course/ece457b"
+    },
+    "lecture_text_url": {
+        "vid1": "https://uwaterloo.ca/scholar/pmehrann/classes/ece-457a-adaptive-and-cooperative-algorithms",
+        "vid2": "https://www.youtube.com/watch?v=OM5rUg-sxQg"
+    }
+}
